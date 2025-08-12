@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Auto Typer
+Comment=Modern Auto Typer Tool
+Exec=/usr/local/bin/auto-typer
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=typing;automation;text;

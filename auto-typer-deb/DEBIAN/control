@@ -1,0 +1,10 @@
+Package: auto-typer
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: libc6, libx11-6
+Maintainer: dovndev <dovndev@example.com>
+Description: Modern Auto Typer Tool
+ Automatically types given text into active window with modern GUI.
+ Features include delay settings, loop mode, and threading support.
