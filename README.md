@@ -1,7 +1,7 @@
 # Auto Typer - Modern Text Automation Tool
 
 A modern, cross-platform application for automated text typing with a sleek CustomTkinter interface.
-## Or Can simply run using PYTHON
+## Or Can simply run using PYTHON (Prefered)
 
 ## Features
 
