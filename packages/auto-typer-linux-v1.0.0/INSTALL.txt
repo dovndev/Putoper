@@ -1,0 +1,21 @@
+Auto Typer v1.0.0 - Linux Installation
+=========================================
+
+Quick Install:
+--------------
+1. Run: ./install.sh
+2. Follow the prompts
+
+Manual Install:
+---------------
+1. Copy AutoTyper to desired location
+2. Make executable: chmod +x AutoTyper
+3. Run: ./AutoTyper
+
+From Source:
+------------
+1. Install Python 3.8+
+2. Run: pip install -r requirements.txt
+3. Run: python auto_typing.py
+
+For more information, see README.md

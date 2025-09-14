@@ -1,0 +1,19 @@
+Auto Typer v1.0.0 - Windows Installation
+===========================================
+
+If AutoTyper.exe is available:
+------------------------------
+1. Right-click windows-install.bat
+2. Select "Run as administrator"
+3. Follow the installation prompts
+
+OR simply run AutoTyper.exe directly (portable mode)
+
+From Source (if no .exe):
+-------------------------
+1. Install Python 3.8+ from python.org
+2. Open Command Prompt
+3. Run: pip install -r requirements.txt
+4. Run: python auto_typing.py
+
+For more information, see README.md
