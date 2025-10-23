@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Auto Typer
-Comment=Modern Text Automation Tool
-Exec=auto-typer
-Icon=auto-typer
-Terminal=false
-Type=Application
-Categories=Utility;
-StartupWMClass=auto-typer
